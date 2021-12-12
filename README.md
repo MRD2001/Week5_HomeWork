@@ -14,6 +14,8 @@ The second tool will be a retirement planning tool that will use the Alpaca API 
 
 > resources used :  **Alpaca Markets API** and **Alternative Free Crypto API** 
 
+### Please note that I replaced the currency from CAD to AUD, to be more relevant
+
 ### Part-1 Personal Financial Planner
 
 ### Part-2 Monte Carlo Simulation
